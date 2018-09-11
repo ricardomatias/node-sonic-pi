@@ -1,0 +1,24 @@
+{
+  "name": "sonic-pi",
+  "version": "0.0.1",
+  "description": "Control Sonic Pi from the command line",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ricardomatias/node-sonic-pi.git"
+  },
+  "keywords": [
+    "sonic-pi",
+    "music",
+    "creative"
+  ],
+  "author": "Ricardo Matias <ricardo.matias0@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ricardomatias/node-sonic-pi/issues"
+  },
+  "homepage": "https://github.com/ricardomatias/node-sonic-pi#readme"
+}
