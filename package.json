@@ -20,5 +20,13 @@
   "bugs": {
     "url": "https://github.com/ricardomatias/node-sonic-pi/issues"
   },
-  "homepage": "https://github.com/ricardomatias/node-sonic-pi#readme"
+  "homepage": "https://github.com/ricardomatias/node-sonic-pi#readme",
+  "dependencies": {
+    "@types/node": "^10.9.4",
+    "osc-js": "^1.2.2"
+  },
+  "devDependencies": {
+    "eslint": "^5.5.0",
+    "eslint-config-google": "^0.10.0"
+  }
 }
